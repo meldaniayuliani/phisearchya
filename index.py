@@ -207,7 +207,7 @@ def index():
     ]
 }
         
-    return render_template("templates/index.html", result=result)
+    return render_template("Templates/index.html", result=result)
 
 # =========================
 # RUN
